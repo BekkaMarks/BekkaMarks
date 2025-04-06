@@ -3,10 +3,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://github.com/user-attachments/assets/9eb92791-762b-4a2f-bbce-3e2f1a70eb6c" height="150" alt="Pacman GIF" />
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BekkaMarks/BekkaMarks/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BekkaMarks/BekkaMarks/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BekkaMarks/BekkaMarks/output/pacman-contribution-graph.svg">
-</picture>
-
-###
